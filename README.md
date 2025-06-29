@@ -1,8 +1,8 @@
-# Hello, I'm khadija Elghozail
+# Hello, I'm Khadija Elghozail
 <img src="https://tryhackme-badges.s3.amazonaws.com/khadija.elghozai.png" alt="Your Image Badge" />
 <a href="https://www.linkedin.com/in/khadija-elghozail-7030442a3/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a cybersecurity engineering student at the National School of Applied Sciences in Marrakesh..
+I am a cybersecurity engineering student at the National School of Applied Sciences in Marrakesh.
 
 ## Objective
 During my journey in cybersecurity, I developed an admiration for the Security Operations Center (SOC) environment, and I am eager to learn more in this field and join a SOC team as a SOC Analyst.
@@ -10,9 +10,9 @@ During my journey in cybersecurity, I developed an admiration for the Security O
 
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Skills                                         | Associated Projects         |
 |-----------------------------------------------|----------------------------|
-|...        | <a href="#">Link</a>|
+|Openssl,PHP,HTML,CSS,Javascript        | <a href="https://github.com/KhadijaElghozail/PKI-project">PKI project</a>|
 
 ## Tools
 
@@ -62,4 +62,4 @@ During my journey in cybersecurity, I developed an admiration for the Security O
 </div>
 
 ## Projects
-- ..
+- <a href="https://github.com/KhadijaElghozail/PKI-project">PKI project</a>
