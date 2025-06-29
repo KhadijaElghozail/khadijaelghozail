@@ -15,6 +15,7 @@ During my journey in cybersecurity, I developed an admiration for the Security O
 |Openssl,PHP,HTML,CSS,Javascript        | <a href="https://github.com/KhadijaElghozail/PKI-project">PKI project</a>|
 |Django        | <a href="https://github.com/KhadijaElghozail/Glucocare">Glucocare</a>|
 |Shell       | <a href="https://github.com/KhadijaElghozail/hardened-Linux-Shell-/">Hardened Linux Shell </a>|
+|Firewall configuration & management       | <a href="https://github.com/KhadijaElghozail/-Secure-Network-Architecture-with-pfSense-">Secure Network Architecture with pfSense </a>|
 
 
 ## Tools
