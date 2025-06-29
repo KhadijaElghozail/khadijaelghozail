@@ -68,3 +68,4 @@ During my journey in cybersecurity, I developed an admiration for the Security O
 - <a href="https://github.com/KhadijaElghozail/PKI-project">PKI project</a>
 - <a href="https://github.com/KhadijaElghozail/Glucocare">Glucocare</a>
 - <a href="https://github.com/KhadijaElghozail/hardened-Linux-Shell-/">Hardened Linux Shell </a>
+- <a href="https://github.com/KhadijaElghozail/-Secure-Network-Architecture-with-pfSense-">Secure Network Architecture with pfSense </a>
