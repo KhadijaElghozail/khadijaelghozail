@@ -16,8 +16,7 @@ During my journey in cybersecurity, I developed an admiration for the Security O
 |Django        | <a href="https://github.com/KhadijaElghozail/Glucocare">Glucocare</a>|
 |Shell       | <a href="https://github.com/KhadijaElghozail/hardened-Linux-Shell-/">Hardened Linux Shell </a>|
 |Firewall configuration & management       | <a href="https://github.com/KhadijaElghozail/-Secure-Network-Architecture-with-pfSense-">Secure Network Architecture with pfSense </a>|
-|Virtualisation    | <a href="https://github.com/KhadijaElghozail/Design-and-Implementation-of-a-Virtualized-Architecture-with-vSphere
-">Hardened Linux Shell </a>|
+|Virtualisation    | <a href="https://github.com/KhadijaElghozail/Design-and-Implementation-of-a-Virtualized-Architecture-with-vSphere">Design and Implementation of a Virtualized Architecture with vSphere </a>|
 
 
 ## Tools
@@ -73,4 +72,4 @@ During my journey in cybersecurity, I developed an admiration for the Security O
 - <a href="https://github.com/KhadijaElghozail/hardened-Linux-Shell-/">Hardened Linux Shell </a>
 - <a href="https://github.com/KhadijaElghozail/-Secure-Network-Architecture-with-pfSense-">Secure Network Architecture with pfSense </a>
 - <a href="https://github.com/KhadijaElghozail/Design-and-Implementation-of-a-Virtualized-Architecture-with-vSphere
-">Hardened Linux Shell </a>
+">Design and Implementation of a Virtualized Architecture with vSphere </a>
