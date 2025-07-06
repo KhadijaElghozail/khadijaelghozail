@@ -12,11 +12,13 @@ During my journey in cybersecurity, I developed an admiration for the Security O
 
 | Skills                                         | Associated Projects         |
 |-----------------------------------------------|----------------------------|
-|Openssl,PHP,HTML,CSS,Javascript        | <a href="https://github.com/KhadijaElghozail/PKI-project">PKI project</a>|
-|Django        | <a href="https://github.com/KhadijaElghozail/Glucocare">Glucocare</a>|
-|Shell       | <a href="https://github.com/KhadijaElghozail/hardened-Linux-Shell-/">Hardened Linux Shell </a>|
+|SIEM management    | <a href="https://github.com/KhadijaElghozail/Security-Operations-Center-Implementation-with-UTM-Stack-Siem">Security Operations Center (SOC) Implementation with UTM Stack Siem</a>|
 |Firewall configuration & management       | <a href="https://github.com/KhadijaElghozail/-Secure-Network-Architecture-with-pfSense-">Secure Network Architecture with pfSense </a>|
 |Virtualisation    | <a href="https://github.com/KhadijaElghozail/Design-and-Implementation-of-a-Virtualized-Architecture-with-vSphere">Design and Implementation of a Virtualized Architecture with vSphere </a>|
+|Openssl,PHP,HTML,CSS,Javascript        | <a href="https://github.com/KhadijaElghozail/PKI-project">PKI project</a>|
+|Django        | <a href="https://github.com/KhadijaElghozail/Glucocare">Glucocare </a> and <a href="https://github.com/KhadijaElghozail/-AI-Driven-Interview-System">AI-Driven Interview System </a>|
+|Shell       | <a href="https://github.com/KhadijaElghozail/hardened-Linux-Shell-/">Hardened Linux Shell </a>|
+
 
 
 ## Tools
