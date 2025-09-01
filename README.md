@@ -51,6 +51,7 @@ During my journey in cybersecurity, I developed an admiration for the Security O
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-UTMStack_SIEM-FF5733?&style=for-the-badge&logo=UTMStack&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh_SIEM-007ACC?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
 
