@@ -18,7 +18,7 @@ During my journey in cybersecurity, I developed an admiration for the Security O
 |Openssl,PHP,HTML,CSS,Javascript        | <a href="https://github.com/KhadijaElghozail/PKI-project">PKI project</a>|
 |Django        | <a href="https://github.com/KhadijaElghozail/Glucocare">Glucocare </a> and <a href="https://github.com/KhadijaElghozail/-AI-Driven-Interview-System">AI-Driven Interview System </a>|
 |Shell       | <a href="https://github.com/KhadijaElghozail/hardened-Linux-Shell-/">Hardened Linux Shell </a>|
-|Automating incident response processes       | <a href="https://github.com/SOC-automation-project/"> SOC Automation project </a>|
+|Automating incident response processes       | <a href="https://github.com/KhadijaElghozail/SOC-automation-project"> SOC Automation project </a>|
 
 
 
@@ -79,5 +79,5 @@ During my journey in cybersecurity, I developed an admiration for the Security O
 - <a href="https://github.com/KhadijaElghozail/Design-and-Implementation-of-a-Virtualized-Architecture-with-vSphere">Design and Implementation of a Virtualized Architecture with vSphere</a>
 - <a href="https://github.com/KhadijaElghozail/-AI-Driven-Interview-System">AI-Driven Interview System </a>
 - <a href="https://github.com/KhadijaElghozail/Security-Operations-Center-Implementation-with-UTM-Stack-Siem">Security Operations Center (SOC) Implementation with UTM Stack Siem</a>
-- <a href="https://github.com/SOC-automation-project/"> SOC Automation project </a>
+- <a href="https://github.com/KhadijaElghozail/SOC-automation-project"> SOC Automation project </a>
 
