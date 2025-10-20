@@ -1,5 +1,6 @@
 # Hello, I'm Khadija Elghozail
-<img src="https://tryhackme-badges.s3.amazonaws.com/khadija.elghozai.png" alt="Your Image Badge" />
+<img src="<img src="https://tryhackme-badges.s3.amazonaws.com/khadija.elghozai.png" alt="Your Image Badge" />
+
 <a href="https://www.linkedin.com/in/khadija-elghozail-7030442a3/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a cybersecurity engineering student at the National School of Applied Sciences in Marrakesh.
