@@ -1,5 +1,5 @@
 # Hello, I'm Khadija Elghozail
-<img src="https://tryhackme-badges.s3.amazonaws.com/khadija.elghozai.png" alt="Your Image Badge" />
+<img src="https://github.com/user-attachments/assets/c4d00ef0-2a6f-44fd-9a41-8b5e0578d8b9" alt="Your Image Badge" />
 
 <a href="https://www.linkedin.com/in/khadija-elghozail-7030442a3/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
